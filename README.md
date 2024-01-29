@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,firebase,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,csharp,dot-net,swift,firebase,nextjs,mysql" /><br>
 </div>
 
 <br/>
@@ -55,4 +55,3 @@
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 </br>
----
