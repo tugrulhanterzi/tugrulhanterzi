@@ -51,13 +51,11 @@
 
 <hr/>
 
+<div align="center">
+    ![snake gif](https://github.com/tugrulhanterzi/tugrulhanterzi/blob/output/github-contribution-grid-snake.gif)
+</div>
 
-![snake gif](https://github.com/tugrulhanterzi/tugrulhanterzi/blob/output/github-contribution-grid-snake.gif)
 
 
 </br>
-
-![GitHub Snake Light](github-contribution-grid-snake.gif#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
 ---
