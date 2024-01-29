@@ -50,10 +50,9 @@
 </div>
 
 <hr/>
-<div align="center">
-    ![GitHub Snake Light](github-contribution-grid-snake.gif#gh-light-mode-only)
-    ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-</div>
+
+![GitHub Snake Light](github-contribution-grid-snake.gif#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 </br>
 ---
