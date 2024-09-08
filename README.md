@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **City Trip Planner Mobile Application**
+ 🔭 I’m currently working on **Receiving and monitoring data with WebSocket**
  
  🌱 I’m currently learning **Javascript, React Native, Tailwind**
 
