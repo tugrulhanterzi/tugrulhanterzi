@@ -37,14 +37,10 @@
 <div align="center">
 
 <b>Backend & Database</b><br/>
-<img src="https://skillicons.dev/icons?i=dotnet,csharp,postgres,redis,nodejs,python" />
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=dotnet,postgres,redis,nodejs,python" />
 
 <b>DevOps & Infrastructure</b><br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,elasticsearch,git,gitlab,linux" />
-
-<br/><br/>
 
 <b>Frontend & Mobile</b><br/>
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,swift" />
