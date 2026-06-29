@@ -1,53 +1,17 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tugrulhanterzi.tugrulhanterzi" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Tuğrulhan+Terzi;.NET+Backend+Developer;Full-Stack+Engineer" />
-</h1>
+### Hey!
 
-<h3 align="center">.NET Backend Developer focused on scalable, secure systems</h3>
+I'm a **.NET Backend Developer** based in Istanbul, Türkiye, working as a Software Development Specialist & Team Lead at a cybersecurity and OT/ICS consultancy.
 
-<br/>
+I lead the development of an enterprise asset management platform built on **.NET 8 Clean Architecture**, **PostgreSQL**, and a **React/TypeScript** frontend, and I work at the intersection of backend engineering and OT/IT security — including log management pipelines feeding SIEM infrastructure.
 
-<div align="center">
+I lead a 3-person engineering team, owning architecture decisions, code reviews, and CI/CD pipelines on GitLab. Outside of backend systems, I'm exploring Kubernetes, Kafka, RabbitMQ, and Elasticsearch for event-driven, cloud-native architectures.
 
-🏢 Building **enterprise asset management systems** with .NET 8 Clean Architecture & PostgreSQL
+Feel free to reach me on [LinkedIn](https://linkedin.com/in/tugrulhan-terzi-5a55b220b) about job-related matters, or check my [portfolio](https://tugrulhanterzi.github.io).
 
-🔧 Working with **Docker, Kubernetes, CI/CD pipelines, and event-driven microservice architectures**
+**~**
 
-🎯 Interested in **system design, secure backend development & cloud-native infrastructure**
-
-</div>
-
-<div align="center"> 
-  <a href="mailto:tugrulterzi1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/tugrulhan-terzi-5a55b220b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://tugrulhanterzi.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-</div>
-
-<hr/>
-
-<h2 align="center">Tech Stack</h2>
-
-<div align="center">
-
-<b>Backend & Database</b><br/>
-<img src="https://skillicons.dev/icons?i=dotnet,postgres,redis,nodejs,python" />
-
-<b>DevOps & Infrastructure</b><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,elasticsearch,git,gitlab,linux" />
-
-<b>Frontend & Mobile</b><br/>
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,swift" />
-
-</div>
-
-<hr/>
-
-![GitHub Snake Light](github-contribution-grid-snake.gif#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<!-- WakaTime kurulumu tamamlanınca aktif et:
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tugrulhanterzi&theme=github_dark&hide_border=false&layout=compact" />
+-->
