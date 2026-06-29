@@ -12,7 +12,7 @@
 
 🏢 Building **enterprise asset management systems** with .NET 8 Clean Architecture & PostgreSQL
 
-🔧 Working with **Docker, CI/CD pipelines, and microservice architectures**
+🔧 Working with **Docker, Kubernetes, CI/CD pipelines, and event-driven microservice architectures**
 
 🎯 Interested in **system design, secure backend development & cloud-native infrastructure**
 
@@ -37,12 +37,12 @@
 <div align="center">
 
 <b>Backend & Database</b><br/>
-<img src="https://skillicons.dev/icons?i=dotnet,c-sharp,postgres,nodejs,python" />
+<img src="https://skillicons.dev/icons?i=dotnet,csharp,postgres,redis,nodejs,python" />
 
 <br/><br/>
 
 <b>DevOps & Infrastructure</b><br/>
-<img src="https://skillicons.dev/icons?i=docker,git,gitlab,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,elasticsearch,git,gitlab,linux" />
 
 <br/><br/>
 
