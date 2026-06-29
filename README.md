@@ -37,7 +37,7 @@
 <div align="center">
 
 <b>Backend & Database</b><br/>
-<img src="https://skillicons.dev/icons?i=dotnet,csharp,postgres,nodejs,python" />
+<img src="https://skillicons.dev/icons?i=dotnet,c#,postgres,nodejs,python" />
 
 <br/><br/>
 
