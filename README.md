@@ -44,7 +44,6 @@
   <br>
     <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tugrulhanterzi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-        <img src="http://92.5.74.191:3000/api/ai-model-stats?username=tugrulhanterzi&theme=github_dark&layout=compact" alt="AI Model Stats" />
 </div>
   <br/>
   <br/><br/>
