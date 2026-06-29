@@ -1,20 +1,20 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tugrulhanterzi.tugrulhanterzi" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tuğrulhan+Terzi!;.NET+Backend+Developer;Full-Stack+Engineer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Tuğrulhan+Terzi;.NET+Backend+Developer;Full-Stack+Engineer" />
 </h1>
 
-<h3 align="center">.NET Backend Developer | Full-Stack Engineer from Türkiye 🇹🇷</h3>
+<h3 align="center">.NET Backend Developer focused on scalable, secure systems</h3>
 
 <br/>
 
 <div align="center">
 
-🔭 Currently building **enterprise asset management systems with .NET 8 Clean Architecture & PostgreSQL**
+🏢 Building **enterprise asset management systems** with .NET 8 Clean Architecture & PostgreSQL
 
-🌱 Exploring **microservices, Docker orchestration & CI/CD pipelines**
+🔧 Working with **Docker, CI/CD pipelines, and microservice architectures**
 
-💬 Ask me about **.NET, REST APIs, PostgreSQL, Docker, system design**
+🎯 Interested in **system design, secure backend development & cloud-native infrastructure**
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -41,28 +41,14 @@
 
 <br/><br/>
 
-<b>DevOps & Tools</b><br/>
-<img src="https://skillicons.dev/icons?i=docker,git,gitlab,github,vscode,linux" />
+<b>DevOps & Infrastructure</b><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,gitlab,linux,vscode" />
 
 <br/><br/>
 
 <b>Frontend & Mobile</b><br/>
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,html,css,swift" />
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,swift" />
 
-</div>
-
-<hr/>
-
-<h2 align="center">📌 Pinned Projects</h2>
-<p align="center"><i>(Profilinden .NET/backend ağırlıklı 3 repo pinleyince burada otomatik görünecek — GitHub kartlarına gerek yok, sadece pin seçimini yap)</i></p>
-
-<hr/>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tugrulhanterzi&show_icons=true&theme=github_dark&hide_border=false&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tugrulhanterzi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&exclude_repo=REPO1,REPO2" height="165" />
 </div>
 
 <hr/>
